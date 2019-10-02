@@ -1,5 +1,5 @@
 # library-management-system
---------------------A LMS to simulate data CRUD --------------------
+-----------------------A LMS to simulate data CRUD -----------------------
 1. Misson: Write a LMS with txt file to simulate database CRUD; The program consists three part: book, author and publisher; 
 Book will need to interact with author and publisher.
 2. Book, Author and Publisher classes to hold fields and methods for each entity.
